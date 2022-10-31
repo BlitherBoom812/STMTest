@@ -1,0 +1,45 @@
+{
+
+    "configurations": [
+  
+      {
+  
+        "name": "Win32",
+  
+        "includePath": [
+  
+          "${workspaceFolder}/**"
+  
+        ],
+  
+        "defines": [
+  
+          "_DEBUG",
+  
+          "UNICODE",
+  
+          "_UNICODE",
+  
+          "USE_HAL_DRIVER",
+  
+          "STM32F103xE"
+  
+        ],
+  
+        "cStandard": "c17",
+  
+        "cppStandard": "c++17",
+  
+        "compilerPath": "D:/Software/Arm GNU Toolchain arm-none-eabi/12.2 mpacbti-bet1/bin/arm-none-eabi-gcc.exe",
+  
+        "intelliSenseMode": "linux-gcc-x64",
+  
+        "configurationProvider": "ms-vscode.makefile-tools"
+  
+      }
+  
+    ],
+  
+    "version": 4
+  
+  }

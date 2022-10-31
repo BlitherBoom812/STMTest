@@ -1,0 +1,6 @@
+/Drivers/
+/build/
+Makefile
+startup_*.*
+*STM*.*
+.mxproject

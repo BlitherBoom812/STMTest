@@ -1,0 +1,1 @@
+STM32_Programmer_CLI -c port=SWD -d build/STMTest.bin 0x8000000 -s
